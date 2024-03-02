@@ -1,3 +1,6 @@
+Harsh
+
+
 Reconciliation alogrithm (React Fiber)
 seperation of concerns
 single resposibility principalGridController\_\_Arrow-sc-4swl2a-1 eQnmto
